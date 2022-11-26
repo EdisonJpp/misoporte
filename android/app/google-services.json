@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627301361931",
+    "project_id": "misoporte-1f550",
+    "storage_bucket": "misoporte-1f550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627301361931:android:4f5563149227d94e62da0e",
+        "android_client_info": {
+          "package_name": "com.padillacore.misoporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627301361931-1gv6efl0o864sojda8g16l5sqk8l5em4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByou5_ULU1Lq9_sBPtVCb86NBnRp3-O0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627301361931-1gv6efl0o864sojda8g16l5sqk8l5em4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
